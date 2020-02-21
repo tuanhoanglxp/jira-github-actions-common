@@ -5,15 +5,11 @@ Function(s):
 
 ## Uses
 
-const core = require('@actions/core');
-
-npm install --save @actions/core
-
 const request = require('request-promise-native');
 
 npm install request-promise-native
 
 ## getAccessToken
 
-Gets Client ID and Client Secret. Returns parsed response from POST request.
+Takes in Client ID and Client Secret. Returns parsed response from POST request.
 

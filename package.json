@@ -1,6 +1,6 @@
 {
   "name": "@highwaythree/jira-github-actions-common",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "This package uses token retrieval logic for the GitHub Actions: Jira Upload Build Info and Jira Upload Deployment Info",
   "main": "index.js",
   "scripts": {

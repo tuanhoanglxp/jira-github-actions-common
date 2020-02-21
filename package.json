@@ -14,7 +14,6 @@
   "author": "Highway Three Solutions",
   "license": "ISC",
   "dependencies": {
-    "@actions/core": "^1.2.2",
     "request-promise-native": "^1.0.8"
   },
   "devDependencies": {},

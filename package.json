@@ -14,9 +14,11 @@
   "author": "Highway Three Solutions",
   "license": "ISC",
   "dependencies": {
-    "request-promise-native": "^1.0.8"
+    "request-promise-native": "^1.0.9"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "@actions/core": "^1.6.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/HighwayThree/jira-github-actions-common.git"
